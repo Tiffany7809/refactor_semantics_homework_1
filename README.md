@@ -1,3 +1,4 @@
 # refactor_semantics_homework_1
-First homework assignment for Boot camp
+# Semantic Markup
 Adding semantics tags to allow for accesability on web site.
+
