@@ -84,6 +84,7 @@ p {
     background-color: #2589bd;
 }
 
+/* put elements with the same attributes together to allow for a more condensed CSS file */
 .benefit-lead, .benefit-brand, .benefit-cost{
     margin-bottom: 32px;
     color: #ffffff;
